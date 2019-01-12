@@ -3,6 +3,7 @@ img {
   margin-right: auto;
   display: block;
   width: 300px;
+  float: none;
 }
 
 h1 {
@@ -23,4 +24,8 @@ body {
   padding-left: 20px;
   padding-right: 20px;
   padding-bottom: 10px;
+}
+
+1 {
+  color: darkblue;
 }
