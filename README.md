@@ -1,20 +1,37 @@
-####Independent Project week 1 (Portfolio), January 11, 2019
+# Project 1
 
-####By Jared Hanson
+#### Epicodus Week 1 Independent Project Portfolio, January 20, 2019
 
-##Description
-.
+#### By Jared Hanson
 
-##Installation Requirements
+## Description
 
-* HTML
-* CSS
-* A code editor
+This project lists and details information on my previous coding projects and some information about myself.
 
-##Support and contact details
-I can be contacted at jaard.hanson12345@gmail.com
+## Setup/Installation Requirements
 
-##Technologies Used
-I used Atom code editor, Bootstrap style sheets, and html and css languages.
+* To clone a copy of this repository, copy the url from the web address either in this README file: https://github.com/jaredh123/Project-1, at the top of the browser, or by clicking the clone or download button on the repository webpage.
+* Open Terminal on your personal computer.
+* Change directories to where you'd want to save the project.
+* Type "git clone <url>" into Terminal and then enter.
+* The project content will now be saved to your device.
+* Open the project in a text editor if you want to edit the content.
+* Open the HTML file in the project to view the webpage or just go to https://jaredh123.github.io/Project-1/ in your browser.
 
-Copyright (c) January 11, 2019
+# Known Bugs
+
+No known bugs.
+
+## Support and contact details
+
+If you have any issues, questions, ideas, or concerns I can be contacted through email at jared.hanson12345@gmail.com.
+
+## Technologies used
+
+I used HTML, CSS, Bootstrap, and terminal.
+
+### License
+
+MIT
+
+Copyright (c) 2019 Jared Hanson
