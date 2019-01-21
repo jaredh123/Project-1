@@ -13,7 +13,7 @@ This project lists and details information on my previous coding projects and so
 * To clone a copy of this repository, copy the url from the web address either in this README file: https://github.com/jaredh123/Project-1, at the top of the browser, or by clicking the clone or download button on the repository webpage.
 * Open Terminal on your personal computer.
 * Change directories to where you'd want to save the project.
-* Type "git clone <url>" into Terminal and then enter.
+* Type "git clone repository-url" into Terminal and then enter.
 * The project content will now be saved to your device.
 * Open the project in a text editor if you want to edit the content.
 * Open the HTML file in the project to view the webpage or just go to https://jaredh123.github.io/Project-1/ in your browser.
